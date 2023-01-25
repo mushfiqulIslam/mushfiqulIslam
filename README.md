@@ -1,7 +1,7 @@
 Hi there, I'm <a href="https://mushfiqulislam.me">Mushfiq</a>!
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Mushfiqul Islam | Twitter" width="21px" src="" />
+<a href="https://twitter.com/_mushfiqulIslam">
+  <img align="left" alt="Mushfiqul Islam | Twitter" width="21px" src="https://raw.githubusercontent.com/mushfiqulIslam/mushfiqulIslam/main/twitter.svg" />
 </a>
 <!-- ![Mushfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiqulIslam&&count_private=true&theme=transparent&show_icons=true) -->
 <!---
