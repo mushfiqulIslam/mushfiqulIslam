@@ -1,4 +1,8 @@
-# Hi I'm Mushfiq
+Hi there, I'm <a href="https://mushfiqulislam.me">Mushfiq</a>!
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Mushfiqul Islam | Twitter" width="21px" src="" />
+</a>
 <!-- ![Mushfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiqulIslam&&count_private=true&theme=transparent&show_icons=true) -->
 <!---
 mushfiqulIslam/mushfiqulIslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
