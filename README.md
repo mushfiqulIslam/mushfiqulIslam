@@ -1,4 +1,6 @@
-Hi there, I'm <a href="https://mushfiqulislam.me">Mushfiq</a>!
+# Hi there, I'm <a href="https://mushfiqulislam.me">Mushfiqul</a>!
+
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqulIslam&&langs_count=6&card_width=500&bg_color=000000&text_color=a29894&layout=compact" />
 
 <a href="https://twitter.com/_mushfiqulIslam">
   <img align="left" alt="Mushfiqul Islam | Twitter" width="21px" src="https://raw.githubusercontent.com/mushfiqulIslam/mushfiqulIslam/main/twitter.svg" />
