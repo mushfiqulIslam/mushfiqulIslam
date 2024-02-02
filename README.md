@@ -6,7 +6,7 @@
   <img align="left" alt="Mushfiqul Islam | Twitter" width="21px" src="https://raw.githubusercontent.com/mushfiqulIslam/mushfiqulIslam/main/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mushfiqul-islam-chowdhury">
-  <img align="left" alt="Mushfiqul Islam | LinkedIn" width="21px" src="https://raw.githubusercontent.com/mushfiqulIslam/mushfiqulIslam/main/linkedin.svg" />
+  <img align="left" alt="Mushfiqul Islam | LinkedIn" width="21px" src="https://raw.githubusercontent.com/mushfiqulIslam/mushfiqulIslam/main/twitter.svg" />
 </a>
 <!-- ![Mushfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiqulIslam&&count_private=true&theme=transparent&show_icons=true) -->
 <!---
