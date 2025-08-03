@@ -6,7 +6,7 @@ a software engineer and AI enthusiast currently pursuing a Master's in Artificia
 ### About Me
 - Engineer turned AI researcher
 - Backend + Data enthusiast
-- From Bangladesh | Living in Finland
+- From Bangladesh <!--| Living in Finland -->
 - Passionate about clean architecture, automation, and intelligent systems
 - Always learning, always building
 
