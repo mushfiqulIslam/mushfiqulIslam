@@ -1,10 +1,11 @@
 # Hi there, I'm <a href="https://mushfiqulislam.me" target="_blank">Mushfiqul Islam</a>
-a software engineer and AI enthusiast currently pursuing a Master's in Artificial Intelligence at the University of Jyväskylä. I enjoy building scalable systems, designing APIs, and exploring the intersection of software engineering and data science.
+Software Engineer with industry experience building AI-driven systems and scalable backend services. Currently pursuing an M.Sc. in Artificial Intelligence at the University of Jyväskylä. I am experienced in GenAI and RAG architectures, API design, and applied AI systems, with a strong interest in intelligent systems and AI security. Focused on production-grade solutions at the intersection of software engineering and machine learning.
+
 
 ---
 
 ### About Me
-- Engineer turned AI researcher
+- Software engineer with a growing focus on applied AI research
 - Backend + Data enthusiast
 - From Bangladesh <!--| Living in Finland -->
 - Passionate about clean architecture, automation, and intelligent systems
@@ -12,14 +13,22 @@ a software engineer and AI enthusiast currently pursuing a Master's in Artificia
 
 ---
 
-### Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+### Achievements
 
+- **Champion, Datathon 2020**  
+  National-level competition at *MUJIB BORSHO IT CARNIVAL 2020*, organized by Dhaka International University.
+
+- **First Runner-up, Intra-University Programming Contest 2018**  
+  Organized by BRAC University Computer Club (BUCC).
+
+---
+
+### Tech Stack
+
+**Languages & Backend:** Python, Java, Go · FastAPI, Django · REST APIs  
+**AI & LLMs:** GenAI, RAG · LangChain, LangGraph · OpenAI API · Qdrant  
+**Data & Infra:** PostgreSQL, Redis · Docker · AWS (SageMaker, Lambda, EC2, ECR, S3)  
+**ML Tooling:** scikit-learn, PyTorch, TensorFlow · MLflow, ZenML
 
 ---
 
@@ -27,6 +36,10 @@ a software engineer and AI enthusiast currently pursuing a Master's in Artificia
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqulIslam&langs_count=6&card_width=500&title_color=8E2828&bg_color=717166&text_color=bbb3ae&layout=compact" />
 
 ---
+
+<!-- ### GitHub stats -->
+<!-- ![Mushfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiqulIslam&count_private=true&theme=transparent&show_icons=true) -->
+<!-- --- -->
 
 ### Connect with Me
 
@@ -36,10 +49,3 @@ a software engineer and AI enthusiast currently pursuing a Master's in Artificia
 <a href="https://www.linkedin.com/in/mushfiqul-islam-chowdhury">
   <img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/mushfiqulIslam/mushfiqulIslam/main/linkedin.svg" />
 </a>
-
-<!--<br/><br/>-->
-
-<!-- Optional GitHub stats -->
-<!--
-![Mushfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiqulIslam&count_private=true&theme=transparent&show_icons=true)
--->
