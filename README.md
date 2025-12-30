@@ -32,10 +32,11 @@ Software Engineer with industry experience building AI-driven systems and scalab
 
 ---
 
-### Language Stats
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqulIslam&langs_count=6&card_width=500&title_color=8E2828&bg_color=717166&text_color=bbb3ae&layout=compact" />
+<!-- ### Language Stats -->
+<!-- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqulIslam&langs_count=6&card_width=500&title_color=8E2828&bg_color=717166&text_color=bbb3ae&layout=compact" /> -->
 
----
+<!-- --- -->
+
 
 <!-- ### GitHub stats -->
 <!-- ![Mushfiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiqulIslam&count_private=true&theme=transparent&show_icons=true) -->
