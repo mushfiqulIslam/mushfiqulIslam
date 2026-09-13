@@ -1,4 +1,4 @@
-# Hi, I'm [Mushfiqul Islam](https://mushfiqulislam.me)
+# Hi, I'm Mushfiqul Islam
 
 M.Sc. Artificial Intelligence student at the University of Jyväskylä with 4+ years of
 industry experience building production-grade AI systems, agentic workflows, and
