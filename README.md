@@ -55,4 +55,3 @@ GitHub Actions (CI/CD)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mushfiqul--islam--chowdhury-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mushfiqul-islam-chowdhury)
 [![Twitter](https://img.shields.io/badge/Twitter-_mushfiqulIslam-1DA1F2?style=flat&logo=twitter)](https://twitter.com/_mushfiqulIslam)
-[![Website](https://img.shields.io/badge/Website-mushfiqulislam.me-4A90E2?style=flat&logo=google-chrome)](https://mushfiqulislam.me)
