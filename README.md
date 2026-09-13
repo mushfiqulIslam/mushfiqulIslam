@@ -48,11 +48,6 @@ GitHub Actions (CI/CD)
   Computer Club (BUCC)
 - **Speaker, Google Developers Group (GDG) Dhaka 2024** — "Career with AI"
 
----
-
-### 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqulIslam&langs_count=8&layout=compact&theme=dark&hide=jupyter%20notebook,html,css)](https://github.com/mushfiqulIslam)
 
 ---
 
